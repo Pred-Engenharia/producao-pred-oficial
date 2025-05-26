@@ -1,10 +1,6 @@
 <template>
-    <v-lazy
-    transition="fade-transition"
-    >
-        <div>
-            <VisaoPrincipaldesktop />
-            <VisaoPrincipalmobile />
-        </div>
-    </v-lazy>
+    <div style="min-height: 300px;">
+        <VisaoPrincipaldesktop />
+        <VisaoPrincipalmobile />
+    </div>
 </template>

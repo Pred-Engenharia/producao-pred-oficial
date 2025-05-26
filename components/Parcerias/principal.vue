@@ -1,8 +1,6 @@
 <template>
-    <v-lazy
-    transition="fade-transition"
-    >
     <div class="mb-2 bg-white d-flex justify-center align-center" style="height: 250px;">
+
         <v-container class="w-100 d-flex justify-center align-center">
             <v-row class="w-100 d-flex justify-center align-center" dense>
                 <v-col cols="6" md="3">
@@ -24,5 +22,4 @@
             </v-row>
         </v-container>
     </div>
-    </v-lazy>
 </template>

@@ -1,7 +1,4 @@
 <template>
-    <v-lazy
-    transition="fade-transition"
-    >
     <div>
         <div class="bg-indigo-darken-4 d-flex  align-center flex-column h-100 d-md-none">
             <div  class="w-100 h-100 px-5 py-8">
@@ -61,7 +58,6 @@
             </div>
         </div>
     </div>
-    </v-lazy>
 </template>
 
 

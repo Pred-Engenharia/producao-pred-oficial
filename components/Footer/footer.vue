@@ -1,7 +1,5 @@
 <template>
-  <v-lazy
-  transition="fade-transition"
-  >
+  <div style="min-height: 200px;">
     <v-footer class="d-flex flex-column w-100 pa-0">
       <!-- Social Links Section -->
       <div class="bg-indigo-darken-4 w-100">
@@ -53,7 +51,7 @@
         {{ new Date().getFullYear() }} — <strong>PRED ENGENHARIA</strong>
       </div>
     </v-footer>
-  </v-lazy>
+  </div>
 </template>
 
 <script setup>

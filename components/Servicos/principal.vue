@@ -1,10 +1,6 @@
 <template >
-    <v-lazy
-    transition="fade-transition"
-    >
-        <div>
-            <ServicosPrincipaldesktop />
-            <ServicosPrincipalmobile />
-        </div>
-    </v-lazy>
+    <div style="min-height: 700px;">
+        <ServicosPrincipaldesktop />
+        <ServicosPrincipalmobile />
+    </div>
 </template>

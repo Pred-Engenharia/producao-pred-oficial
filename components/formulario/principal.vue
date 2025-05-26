@@ -1,10 +1,6 @@
 <template>
-    <v-lazy
-    transition="fade-transition"
-    >
-    <div>
+    <div style="min-height: 500px;">
         <FormularioPrincipaldesktop />
         <FormularioPrincipalmobile />
     </div>
-</v-lazy>
 </template>

@@ -1,10 +1,6 @@
 <template>
-    <v-lazy
-        transition="fade-transition"
-    >
-        <div>
-            <MciPrincipaldesktop />
-            <MciPrincipalmobile />
-        </div>
-    </v-lazy>
+    <div style="min-height: 570px;">
+        <MciPrincipaldesktop />
+        <MciPrincipalmobile />
+    </div>
 </template>

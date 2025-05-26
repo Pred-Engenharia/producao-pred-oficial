@@ -32,66 +32,66 @@
                  <div class="mt-10">
                     <!--HEADER-->
                     <div class="d-flex " >
-                        <div class="w-33 border px-4 pt-1 bg-indigo-darken-4">
+                        <div class="w-33 border px-2 pt-1 bg-indigo-darken-4">
                             <h1 class="text-md-body-1 font-weight-bold text-caption">Finalidade</h1>
                         </div>
-                         <div class="w-33 border px-4 pt-1 bg-indigo-darken-4">
+                         <div class="w-33 border px-2 pt-1 bg-indigo-darken-4">
                             <h1 class="text-md-body-1 font-weight-bold text-caption">Dados Pessoais</h1>
                         </div>
-                         <div class="w-33 border px-4 pt-1 bg-indigo-darken-4">
+                         <div class="w-33 border px-2 pt-1 bg-indigo-darken-4">
                             <h1 class="text-md-body-1 font-weight-bold text-caption">Base Legal</h1>
                         </div>
                     </div>
 
                     <!-- BODY -->
                      <div class="d-flex">
-                        <div class="w-33 border px-4 py-2 text-caption"><p>Contato</p></div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption"><p>Contato</p></div>
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Contato	Nome completo, nº de telefone, endereço de e-mail	Consentimento ou Execução de contrato</p>
                         </div>
-                        <div class="w-33 border px-4  py-2 text-caption">
+                        <div class="w-33 border px-2  py-2 text-caption">
                             <p class="text-justify">Consentimento ou Execução de contrato</p>
                         </div>
                      </div>
 
 
                      <div class="d-flex">
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Contratação de nossos serviços ou contratação de fornecedores</p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Nome completo, estado civil, profissão, nacionalidade, endereço residencial, endereço de e-mail, nº de CPF, nº de telefone e assinatura.</p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Procedimentos preliminares para contratação de serviço</p>
                         </div>
                      </div>
 
 
                      <div class="d-flex">
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Prestação dos serviços contratados</p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Nome completo, nº de telefone, endereço de e-mail e nº de CPF.</p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Execução de contrato</p>
                         </div>
                      </div>
 
 
                      <div class="d-flex">
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Permitir o acesso ao nosso site e analisar a navegação de usuários em nosso site (apenas para o blog)</p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Cookies Dados de navegação (apenas para o blog): IP, data e hora de acesso, localização geográfica, idioma, duração do acesso, páginas visitadas, tipo e versão do navegador.
                             Armazenamento de preferências de cookies, conforme exigido pela própria LGPD.
                             Armazenamento de interações para fins de campanhas do Google Ads (apenas para a página do blog)
                             </p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Cumprimento de obrigação legal ou regulatória: para a identificação, registro do Endereço de IP e gestão de preferências do usuário.
                             Consentimento – para cookies não essenciais.
                             </p>
@@ -99,13 +99,13 @@
                      </div>
 
                      <div class="d-flex">
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Para acesso ao Portal MCI por clientes</p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Nome completo, nº de telefone e endereço de e-mail.</p>
                         </div>
-                        <div class="w-33 border px-4 py-2 text-caption">
+                        <div class="w-33 border px-2 py-2 text-caption">
                             <p class="text-justify">Execução de contrato</p>
                         </div>
                      </div>

@@ -46,6 +46,9 @@
         type="text"
         density="compact"
       ></v-text-field>
+      <p class="text-caption py-2">Conheça nossa
+        <nuxt-link to="/privacidade" style="text-decoration: none;">Política de Privacidade</nuxt-link>
+        - <a href="mailto:privacidade@pred.com.br" style="text-decoration: none;">privacidade@pred.com.br</a></p>
       <p class="text-center text-caption bg-light-green-darken-4 rounded mb-2" v-if="progress">E-mail encaminhado com sucesso!</p>
       <v-btn
         variant="flat"

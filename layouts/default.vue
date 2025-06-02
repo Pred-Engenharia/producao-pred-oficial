@@ -27,7 +27,7 @@
         <v-col cols="12" md="8">
           <div class=" d-flex align-center ga-1 ga-md-4">
             <v-icon icon="mdi-information" class="text-h4 text-indigo-darken-4"></v-icon>
-            <p class="text-disabled text-caption text-md-body-1"> Este site utiliza cookies e coleta dados conforme nossa Política de Privacidade. Ao continuar navegando, você concorda com essas condições.</p>
+            <p class="text-disabled text-caption text-md-body-1"> Nosso site apenas utiliza os cookies estritamente necessários para garantir sua funcionalidade, para saber mais, acesse nossa política de privacidade.</p>
           </div>
 
           <div class="ml-6">
@@ -122,7 +122,7 @@
         <v-spacer></v-spacer>
          <v-col cols="12" md="3">
             <div class="text-center">
-              <v-btn variant="outlined" color="indigo-darken-4" @click="politica = true">Aceitar</v-btn>
+              <v-btn variant="outlined" color="indigo-darken-4" @click="politica = true">Prosseguir</v-btn>
             </div>
         </v-col>
       </v-row>
@@ -139,7 +139,7 @@
 <script setup>
 
 const politica = useCookie('politica - privacidade/cookie', {
-  maxAge: 60 * 60 * 24 * 365, // 1 ano em segundos
+  maxAge: 60 * 60 * 24 * 30, // 30 dias
   path: '/',
   sameSite: 'lax',
   secure: true,

@@ -15,14 +15,17 @@
         </template>
         <template v-slot:default="{ isActive }">
             <v-card class="pb-6" aria-labelledby="dialog-title" aria-describedby="dialog-content">
-                <v-card-actions>
-                    <v-spacer></v-spacer>
-                    <v-btn
+                <div class="text-end pa-2">
+                     <v-btn
                         icon="mdi-close-box-multiple-outline" 
                         @click="isActive.value = false"
                         aria-label="Fechar"
+                        variant="text"
+                        size="small"
                     ></v-btn>
-                </v-card-actions>
+
+                </div>
+                   
                 <v-card-item>
                     <FormularioForm />
                 </v-card-item>
